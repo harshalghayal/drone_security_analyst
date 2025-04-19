@@ -3,7 +3,7 @@ This was my first assignment with computer vision as most of my experience is wi
 With strong foundation and ability to execute I present this assignment to you 
 
 # APP demo video 
-<url> https://www.loom.com/share/533789d3e0cf4389813a49c51d64c07d?sid=7fe927f0-179c-4a71-893e-ad9d7ca233ec <url
+<url> https://www.loom.com/share/533789d3e0cf4389813a49c51d64c07d?sid=7fe927f0-179c-4a71-893e-ad9d7ca233ec <url>
 
 # Documentation
 <url> https://drive.google.com/file/d/1NU0Ep2XlE7EqK9snPwU7xlPJ5hX0TMOI/view?usp=drive_link <url>

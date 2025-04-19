@@ -38,19 +38,17 @@ This system processes drone footage to detect objects, track movements, identify
    git clone https://github.com/yourusername/drone_security_analyst.git
    cd drone_security_analyst
    ```
-
-2. Install dependencies:
+2. uzip data folder and add it to the root of your repository
+   
+3. Create virtual environment and Install dependencies:
    ```
+4.  py -3.11 -m venv .env
+   .env\Scripts\activate 
    pip install -r requirements.txt
    ```
-
-3. Download the YOLOv8 model:
-   ```
-   # The model will be downloaded automatically on first run
-   # or manually from https://github.com/ultralytics/assets/releases/
    ```
 
-4. Configure security zones (optional):
+5. Configure security zones (optional):
    ```
    python annotation_helper.py
    ```

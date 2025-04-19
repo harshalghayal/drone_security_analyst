@@ -13,7 +13,7 @@ def draw_polygon(event, x, y, flags, param):
         print("Polygon Coordinates:", polygon_points)
 
 # Load image
-frame = cv2.imread('Data/sequences/uav0000075_00000_v/0000001.jpg')
+frame = cv2.imread('data/sequences/uav0000013_00000_v/0000001.jpg')
 original_frame = frame.copy()
 
 cv2.namedWindow('Draw Polygon', cv2.WINDOW_NORMAL)

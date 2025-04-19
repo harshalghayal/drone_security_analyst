@@ -8,7 +8,7 @@ With strong foundation and ability to execute I present this assignment to you
 # Documentation
 <url> https://drive.google.com/file/d/1NU0Ep2XlE7EqK9snPwU7xlPJ5hX0TMOI/view?usp=drive_link <url>
 
-# Drone Security Analyst Systems
+# Drone Security Analyst System
 
 A comprehensive drone-based security monitoring and analysis system that uses computer vision and AI to detect security events from aerial footage.
 

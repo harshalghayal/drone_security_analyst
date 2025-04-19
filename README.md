@@ -37,7 +37,7 @@ This system processes drone footage to detect objects, track movements, identify
    git clone https://github.com/yourusername/drone_security_analyst.git
    cd drone_security_analyst
    ```
-2. download visdone dataset from the link and add it to the root of your repository as data\sequences\
+2. download Visdrone dataset from the link and add it to the root of your repository as data\sequences\
    <url> https://drive.google.com/file/d/1-qX2d-P1Xr64ke6nTdlm33om1VxCUTSh/view?usp=sharing <url>
    
 4. Create virtual environment and Install dependencies:

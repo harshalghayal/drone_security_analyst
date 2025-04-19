@@ -1,3 +1,7 @@
+Dear Flytbase Team, As I was not able to submit documentation in time. I will add links to the documententation here:
+<Link1>
+<Link2>
+
 # Drone Security Analyst System
 
 A comprehensive drone-based security monitoring and analysis system that uses computer vision and AI to detect security events from aerial footage.
@@ -11,10 +15,10 @@ This system processes drone footage to detect objects, track movements, identify
 - **Real-time Object Detection & Tracking**: Uses YOLOv8 - Finetuned on Visdrone dataset to detect and track objects in drone imagery
 - **Security Event Recognition**: Implements rule-based detection for various security events:
   - Perimeter intrusions
-  - Loitering detection
-  - Crowd density monitoring
-  - Abandoned object detection
-  - Vehicle violations
+  - Loitering detection ( WIP)
+  - Crowd density monitoring ( WIP)
+  - Abandoned object detection ( WIP)
+  - Vehicle violations ( WIP)
 - **Natural Language Captioning**: Automatically generates descriptive captions for security footage using BLIP
 - **Persistent Storage**: Stores all events, detections and metadata in a searchable SQLite database
 - **Visual Dashboard**: Streamlit-based UI for monitoring and querying security events

@@ -1,8 +1,8 @@
-Dear Flytbase Team, As I was not able to submit documentation in time. I will add links to the documententation here:
+Dear Flytbase Team, As I was not able to submit documentation in time. I have added documententation content here:
 <Link1>
 <Link2>
 
-# Drone Security Analyst System
+# Drone Security Analyst Systems
 
 A comprehensive drone-based security monitoring and analysis system that uses computer vision and AI to detect security events from aerial footage.
 

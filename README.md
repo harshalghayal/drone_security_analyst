@@ -1,4 +1,7 @@
-Dear Flytbase Team, As I was not able to submit documentation in time. I have added documententation content here:
+Dear Flytbase Team, This is my implementation for the Drone Security Agent.
+This was my first assignment with computer vision as most of my experience is with NLP.
+With strong foundation and ability to execute I present this assignment to you 
+
 <Link1>
 <Link2>
 

@@ -2,8 +2,11 @@ Dear Flytbase Team, This is my implementation for the Drone Security Agent.
 This was my first assignment with computer vision as most of my experience is with NLP.
 With strong foundation and ability to execute I present this assignment to you 
 
-<Link1>
-<Link2>
+# APP demo video 
+<url> https://www.loom.com/share/533789d3e0cf4389813a49c51d64c07d?sid=7fe927f0-179c-4a71-893e-ad9d7ca233ec <url
+
+# Documentation
+<url> https://drive.google.com/file/d/1NU0Ep2XlE7EqK9snPwU7xlPJ5hX0TMOI/view?usp=drive_link <url>
 
 # Drone Security Analyst Systems
 
@@ -43,19 +46,19 @@ This system processes drone footage to detect objects, track movements, identify
 2. download Visdrone dataset from the link and add it to the root of your repository as data\sequences\
    <url> https://drive.google.com/file/d/1-qX2d-P1Xr64ke6nTdlm33om1VxCUTSh/view?usp=sharing <url>
    
-4. Create virtual environment and Install dependencies:
+3. Create virtual environment and Install dependencies:
    ```
-5.  py -3.11 -m venv .env
+   py -3.11 -m venv .env
    .env\Scripts\activate 
    pip install -r requirements.txt
-   ```
    ```
 
 5. Configure security zones (optional):
    ```
    python annotation_helper.py
+   #Click on the image displayed to create polygon points for security zones. Right-click to finish and print coordinates.
    ```
-   Click on the image to create polygon points for security zones. Right-click to finish and print coordinates.
+   
 
 ### Usage
 
